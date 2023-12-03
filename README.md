@@ -15,5 +15,7 @@
 Links:  
 https://learn.javascript.ru/js-animation  
 Creating Motion Trails: https://www.kirupa.com/canvas/creating_motion_trails.htm  
+https://particles.js.org/samples/#trail  
+
 https://stackoverflow.com/questions/55440882/animate-dot-along-a-line-within-html-canvas  
 https://codereview.stackexchange.com/questions/270725/animate-circle-using-javascript-and-html5-canvas  
