@@ -2,6 +2,7 @@ import {useCellState} from '@do-while-for-each/tree-cell-react';
 import {useEffect, useRef, useState} from 'react';
 import {CanvasAnimationController} from '../controller/canvas-animation.controller';
 import s from './canvas-animation.module.css';
+import {height, width} from '../../constant';
 
 export function CanvasAnimation() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -15,7 +16,7 @@ export function CanvasAnimation() {
 
   return (
     <canvas className={s.container}
-            width={1000} height={800}
+            width={width} height={height}
             ref={canvasRef}/>
   );
 }

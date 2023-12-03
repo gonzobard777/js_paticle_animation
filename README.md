@@ -19,3 +19,9 @@ https://particles.js.org/samples/#trail
 
 https://stackoverflow.com/questions/55440882/animate-dot-along-a-line-within-html-canvas  
 https://codereview.stackexchange.com/questions/270725/animate-circle-using-javascript-and-html5-canvas  
+
+
+How I built a wind map with WebGL  
+https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f
+
+
